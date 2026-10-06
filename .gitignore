@@ -1,0 +1,8 @@
+data/
+artifacts/
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.parquet
+artifacts_nogender/
